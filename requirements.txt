@@ -1,0 +1,21 @@
+# Web framework
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# File uploads & parsing
+python-multipart==0.0.9
+pymupdf==1.24.9        # PDF parsing
+python-docx==1.1.2     # DOCX parsing
+
+# OpenAI SDK
+openai
+
+# AWS SDK (for Bedrock later)
+boto3==1.35.36
+
+# Environment variables
+python-dotenv==1.0.1
+
+sqlalchemy
+pymysql
+
